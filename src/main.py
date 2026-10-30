@@ -1,2 +1,3 @@
+import PrintHello
 if __name__ == "__main__":
-    print("Hello World")
+    PrintHello.printHello()
